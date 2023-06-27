@@ -1,7 +1,6 @@
 streamlit
 numpy
 pandas
-sklearn.preprocessing
+sklearn
 folium
-sklearn_folium
 gower
