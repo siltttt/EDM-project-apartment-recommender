@@ -1,0 +1,7 @@
+streamlit
+numpy
+pandas
+sklearn.preprocessing
+folium
+sklearn_folium
+gower
